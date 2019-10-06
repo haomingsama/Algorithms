@@ -21,4 +21,4 @@ Recall from the lectures that, just before the main Partition subroutine, you sh
 
 Question 3:
 
-![](question#3.png)
+![xxx](question#3.png)
