@@ -21,4 +21,4 @@ Recall from the lectures that, just before the main Partition subroutine, you sh
 
 Question 3:
 
-![xxx](question#3.png)
+![xxx](https://github.com/haomingsama/Algorithms/blob/master/Quicksort/question%233.png)
